@@ -1,2 +1,2 @@
 # YO SOY GABRIEL S.
-Editado desde vim y GitHub.
+Editado desde el terminal de mi laptop usando vim y GitHub.
